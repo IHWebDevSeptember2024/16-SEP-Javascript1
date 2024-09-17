@@ -6,4 +6,4 @@ Cómo funciona node.js y cómo se ejecuta un archivo de JavaScript en la termina
 Luego vimos los tipos de datos primitivos en JavaScript y cómo se declaran variables.
 
 
-Tambié vimos cómo funcionan los condicionales.
+También vimos cómo funcionan los condicionales.
